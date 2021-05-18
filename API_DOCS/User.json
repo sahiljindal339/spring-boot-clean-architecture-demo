@@ -1,0 +1,30 @@
+{
+  "type": "object",
+  "properties": {
+    "Name": {
+      "type": "string",
+      "description": "User Name",
+      "examples": "ABC XXX"
+    },
+    "ContactNumber": {
+      "type": "string",
+      "description": "The type of this instruction.",
+      "examples": "MSNG_RSVTN"
+    },
+    "Address": {
+      "type": "string",
+      "description": "Any URL associated with this instruction.",
+      "examples": "http://www.google.com"
+    },
+    "City": {
+      "type": "string",
+      "description": "Name of the instruction.",
+      "examples": "BLUE"
+    },
+    "Country": {
+      "type": "string",
+      "description": "Code that describes the instruction.",
+      "examples": "J1"
+    }
+  }
+}
