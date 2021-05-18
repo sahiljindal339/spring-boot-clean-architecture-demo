@@ -14,7 +14,7 @@ Concretely, there are 4 main packages: Entity, use_cases(interactors), interface
 
 # Install
 ```
-mvnw spring boot:run
+mvnw spring-boot:run
 ```
  * Model Class Generation :  
  ```
