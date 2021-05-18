@@ -33,3 +33,5 @@ JMapper is the mapping framework that aims to provide an easy-to-use, high-perfo
 Related links: 
 * [Benchmark Testing](https://www.baeldung.com/java-performance-mapping-frameworks#1averagetime)
 * [JMapper Docs](https://www.baeldung.com/jmapper)
+* [SquareTest](https://plugins.jetbrains.com/plugin/10405-squaretest) (Java Unit Test Generator for IntelliJ IDEA)
+
